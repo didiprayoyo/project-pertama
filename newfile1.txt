@@ -1,1 +1,5 @@
 membuat newfile1.txt
+
+PERHATIKAN DAN HATI-HATI
+git clean -f => all untracked files dihilangkan
+git restore . => all modified files (TERMASUK UNTUK CANCEL) dikembalikan ke commit terakhir
